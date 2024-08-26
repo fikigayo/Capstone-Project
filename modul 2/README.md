@@ -2,7 +2,7 @@
 
 ## Latar Belakang
 
-Bangkok adalah kota tujuan wisata yang menawarkan beragam akomodasi melalui Airbnb, termasuk kamar pribadi, rumah, apartemen, dan hotel.
+Bangkok sebagai destinasi wisata menyediakan berbagai jenis akomodasi melalui Airbnb, seperti kamar pribadi, rumah, apartemen, dan hotel yang dikelola oleh host.
 
 ## Permasalahan
 
