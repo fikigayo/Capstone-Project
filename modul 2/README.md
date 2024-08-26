@@ -21,7 +21,7 @@ Analisis ini dilakukan dengan menggunakan teknik analisis statistik untuk mengev
 - **Faktor Eksternal**: Beberapa faktor eksternal seperti perubahan musim, cuaca, tanggal tertentu, area wisata, atau peristiwa khusus di Bangkok tidak dipertimbangkan dalam analisis ini.
 - **Keterbatasan Data**: Data ulasan atau informasi listing mungkin tidak lengkap atau memiliki bias. Airbnb tidak menyediakan informasi tentang fasilitas dan ulasan mungkin tidak sepenuhnya merepresentasikan pengalaman tamu, seperti rating berbintang.
 - **Pembersihan Data**: Setelah pembersihan data, harga rata-rata dan maksimum mengalami perubahan. **Entire home/apt** yang sebelumnya tertinggi kini menjadi tertinggi kedua setelah **Hotel Room**.
-- **Hasil Analisis**: Temuan ini mungkin tidak berlaku untuk semua jenis akomodasi atau lokasi di Bangkok di luar sampel yang dianalisis, seperti rumah mewah atau listing dengan harga sangat tinggi.
+- **Hasil Analisis**: Temuan ini mungkin tidak berlaku untuk semua jenis akomodasi di luar sampel yang dianalisis, seperti rumah mewah atau listing dengan harga sangat tinggi.
 
 Batasan-batasan ini harus dipertimbangkan saat menafsirkan hasil analisis dan rekomendasi yang diberikan.
 
@@ -30,7 +30,7 @@ Batasan-batasan ini harus dipertimbangkan saat menafsirkan hasil analisis dan re
 
 - **Akomodasi Jangka Pendek**: Sebagian besar tamu di Bangkok lebih memilih menginap dalam jangka pendek. Hal ini menunjukkan pentingnya bagi host untuk menyesuaikan penawaran mereka dengan preferensi ini, misalnya dengan menawarkan diskon atau paket khusus untuk pemesanan jangka pendek.
 
-- **Jenis Akomodasi**: Tamu cenderung memilih untuk menyewa seluruh rumah atau apartemen dibandingkan dengan jenis akomodasi lainnya. Ini menunjukkan bahwa akomodasi yang menawarkan privasi dan kenyamanan lebih tinggi, seperti **Entire home/apt**, memiliki daya tarik yang kuat.
+- **Jenis Akomodasi**: Tamu cenderung memilih untuk menyewa seluruh rumah atau apartemen dibandingkan dengan jenis akomodasi lainnya. Ini menunjukkan bahwa akomodasi yang menawarkan privasi, fasilitas lengkap dan kenyamanan lebih tinggi, seperti **Entire home/apt**, memiliki daya tarik yang kuat.
 
 - **Rentang Harga Berdasarkan Jenis Kamar**:
   - **Entire Home/Apt**: Memiliki harga yang mahal, mencerminkan akomodasi yang menawarkan privasi dan fasilitas lengkap. Ideal untuk tamu yang menginginkan pengalaman menginap yang lebih nyaman dan eksklusif. Rentang harga: 990 - 1999.
