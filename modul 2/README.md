@@ -33,11 +33,11 @@ Batasan-batasan ini harus dipertimbangkan saat menafsirkan hasil analisis dan re
 
 - **Jenis Akomodasi**: Tamu cenderung memilih untuk menyewa seluruh rumah atau apartemen dibandingkan dengan jenis akomodasi lainnya. Ini menunjukkan bahwa akomodasi yang menawarkan privasi dan kenyamanan lebih tinggi, seperti **Entire home/apt**, memiliki daya tarik yang kuat.
 
-- **Rentang Harga Berdasarkan Jenis Kamar**: 
-  - **Shared Room**: Memiliki rentang harga yang termurah dibandingkan dengan jenis akomodasi lainnya. Ini cocok untuk tamu yang mencari opsi akomodasi yang lebih ekonomis.
-  - **Hotel Room**: Menunjukkan variasi harga yang lebih luas, dari harga yang terjangkau hingga yang lebih mahal. Ini mencerminkan berbagai tingkat kualitas dan layanan yang tersedia.
+- **Rentang Harga Berdasarkan Jenis Kamar**:
   - **Entire Home/Apt**: Memiliki harga yang mahal, mencerminkan akomodasi yang menawarkan privasi dan fasilitas lengkap. Ideal untuk tamu yang menginginkan pengalaman menginap yang lebih nyaman dan eksklusif.
+  - **Shared Room**: Memiliki rentang harga yang termurah dibandingkan dengan jenis akomodasi lainnya. Ini cocok untuk tamu yang mencari opsi akomodasi yang lebih ekonomis.
   - **Private Room**: Memiliki harga yang berada di tengah-tengah. Akomodasi ini menawarkan privasi lebih dibandingkan dengan shared room, tetapi dengan fasilitas yang lebih terbatas dibandingkan entire home/apt.
+  - **Hotel Room**: Menunjukkan variasi harga yang lebih luas, dari harga yang terjangkau hingga yang lebih mahal. Ini mencerminkan berbagai tingkat kualitas dan layanan yang tersedia.
 
 - **Korelasi Ulasan dan Harga**: Analisis menunjukkan bahwa jumlah ulasan yang lebih tinggi berkorelasi dengan harga sewa yang lebih tinggi. Ini mungkin disebabkan oleh reputasi dan kepercayaan yang lebih besar terhadap listing dengan ulasan yang banyak.
 
