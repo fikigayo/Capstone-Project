@@ -22,7 +22,6 @@ Tujuan dari analisis ini adalah untuk mengidentifikasi faktor-faktor yang mempen
 Batasan-batasan ini harus dipertimbangkan saat menafsirkan hasil analisis dan rekomendasi yang diberikan.
 
 
-
 ## Kesimpulan
 
 - Mayoritas tamu memilih menginap jangka pendek dan menyewa **Entire home/apt**.
@@ -45,3 +44,7 @@ Dengan mengikuti rekomendasi ini, host dapat menarik lebih banyak tamu dan memak
 1. [Jupyter Notebook](https://github.com/fikigayo/Capstone-Project/blob/68e3a67b1624c90493cb7c9eb045036721d5d773/modul%202/Data%20Analisis%20Airbnb%20Listing%20Bangkok.ipynb)
 2. [Tableau Story](https://public.tableau.com/app/profile/fiki.putra/viz/CapstoneProjectModul2AirbnbListingBangkok/Story)
 3. [Video Penjelasan](https://drive.google.com/file/d/1jB3NNPaLY5MhmAId9cqluiut22nsVrfJ/view?usp=drive_link)
+
+## Rencana Pengembangan Lanjutan
+
+Untuk pengembangan selanjutnya, analisis dapat diperluas dengan menggunakan teknik analisis yang lebih mendalam, seperti machine learning, untuk memprediksi harga sewa dengan lebih akurat.
