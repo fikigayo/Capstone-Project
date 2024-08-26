@@ -12,6 +12,17 @@ Host menghadapi tantangan dalam menetapkan harga sewa yang optimal untuk menarik
 
 Tujuan dari analisis ini adalah untuk mengidentifikasi faktor-faktor yang mempengaruhi harga sewa di Airbnb Bangkok. Analisis ini juga bertujuan untuk memberikan rekomendasi strategis kepada host dalam menetapkan harga sewa yang optimal dan meningkatkan daya tarik listing mereka kepada calon tamu, sehingga dapat memaksimalkan pendapatan.
 
+## Batasan Analisis
+
+- **Data yang Terbatas**: Analisis ini hanya menggunakan data dari platform Airbnb untuk tahun 2022 terkait listing di Bangkok dan mungkin tidak mencakup semua listing atau aspek terbaru di kota tersebut.
+- **Variabel yang Tidak Dapat Dikontrol**: Beberapa faktor eksternal seperti perubahan musim, cuaca, tanggal tertentu, atau peristiwa khusus di Bangkok tidak dipertimbangkan dalam analisis ini.
+- **Keterbatasan Data**: Data ulasan atau informasi listing mungkin tidak lengkap atau memiliki bias. Misalnya, ulasan mungkin tidak sepenuhnya merepresentasikan pengalaman tamu, atau rating fasilitas mungkin tidak jelas.
+- **Generalisasi Temuan**: Hasil analisis ini mungkin tidak sepenuhnya berlaku untuk semua jenis akomodasi atau lokasi di Bangkok di luar sampel yang dianalisis, seperti rumah yang sangat mewah atau listing dengan harga yang sangat tinggi.
+
+Batasan-batasan ini harus dipertimbangkan saat menafsirkan hasil analisis dan rekomendasi yang diberikan.
+
+
+
 ## Kesimpulan
 
 - Mayoritas tamu memilih menginap jangka pendek dan menyewa **Entire home/apt**.
