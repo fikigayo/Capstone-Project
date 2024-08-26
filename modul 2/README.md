@@ -17,11 +17,11 @@ Tujuan dari analisis ini adalah untuk mengidentifikasi faktor-faktor yang mempen
 Analisis ini dilakukan dengan menggunakan teknik analisis statistik untuk mengevaluasi faktor-faktor yang mempengaruhi harga sewa dan visualisasi data untuk mendukung hasil analisis.
 
 ## Batasan Analisis
-- **Cakupan Data**: Analisis ini hanya menggunakan data dari platform Airbnb untuk tahun 2022 terkait listing di Bangkok dan mungkin tidak mencakup semua listing atau aspek terbaru di kota tersebut.
-- **Faktor Eksternal**: Beberapa faktor eksternal seperti perubahan musim, cuaca, tanggal tertentu, area wisata, atau peristiwa khusus di Bangkok tidak dipertimbangkan dalam analisis ini.
-- **Keterbatasan Data**: Data ulasan atau informasi listing mungkin tidak lengkap atau memiliki bias. Airbnb tidak menyediakan informasi tentang fasilitas dan ulasan mungkin tidak sepenuhnya merepresentasikan pengalaman tamu, seperti rating berbintang.
-- **Pembersihan Data**: Setelah pembersihan data, harga rata-rata dan maksimum mengalami perubahan. **Entire home/apt** yang sebelumnya tertinggi kini menjadi tertinggi kedua setelah **Hotel Room**.
-- **Hasil Analisis**: Temuan ini mungkin tidak berlaku untuk semua jenis akomodasi atau lokasi di Bangkok di luar sampel yang dianalisis, seperti rumah mewah atau listing dengan harga sangat tinggi.
+- - **Cakupan Data**: Analisis ini hanya menggunakan data dari platform Airbnb untuk tahun 2022 terkait listing di Bangkok dan mungkin tidak mencakup semua listing atau aspek terbaru di kota tersebut.
+- - **Faktor Eksternal**: Beberapa faktor eksternal seperti perubahan musim, cuaca, tanggal tertentu, area wisata, atau peristiwa khusus di Bangkok tidak dipertimbangkan dalam analisis ini.
+- - **Keterbatasan Data**: Data ulasan atau informasi listing mungkin tidak lengkap atau memiliki bias. Airbnb tidak menyediakan informasi tentang fasilitas dan ulasan mungkin tidak sepenuhnya merepresentasikan pengalaman tamu, seperti rating berbintang.
+- - **Pembersihan Data**: Setelah pembersihan data, harga rata-rata dan maksimum mengalami perubahan. **Entire home/apt** yang sebelumnya tertinggi kini menjadi tertinggi kedua setelah **Hotel Room**.
+- - **Hasil Analisis**: Temuan ini mungkin tidak berlaku untuk semua jenis akomodasi atau lokasi di Bangkok di luar sampel yang dianalisis, seperti rumah mewah atau listing dengan harga sangat tinggi.
 
 Batasan-batasan ini harus dipertimbangkan saat menafsirkan hasil analisis dan rekomendasi yang diberikan.
 
