@@ -17,12 +17,10 @@ Tujuan dari analisis ini adalah untuk mengidentifikasi faktor-faktor yang mempen
 Analisis ini dilakukan dengan menggunakan teknik analisis statistik untuk mengevaluasi faktor-faktor yang mempengaruhi harga sewa dan visualisasi data untuk mendukung hasil analisis.
 
 ## Batasan Analisis
-- **Cakupan Data**: Analisis ini hanya menggunakan data dari platform Airbnb untuk tahun 2022 terkait listing di Bangkok dan mungkin tidak mencakup semua listing atau aspek terbaru di kota tersebut.
-- **Faktor Eksternal**: Beberapa faktor eksternal seperti perubahan musim, cuaca, tanggal tertentu, area wisata, atau peristiwa khusus di Bangkok tidak dipertimbangkan dalam analisis ini.
-- **Keterbatasan Data**: Data ulasan atau informasi listing mungkin tidak lengkap atau memiliki bias. Airbnb tidak menyediakan informasi tentang fasilitas dan ulasan mungkin tidak sepenuhnya merepresentasikan pengalaman tamu, seperti rating berbintang.
-- **Pembersihan Data**: Setelah pembersihan data, harga rata-rata dan maksimum mengalami perubahan. **Entire home/apt** yang sebelumnya tertinggi kini menjadi tertinggi kedua setelah **Hotel Room**.
-- **Hasil Analisis**: Temuan ini mungkin tidak berlaku untuk semua jenis akomodasi atau lokasi di Bangkok di luar sampel yang dianalisis, seperti rumah mewah atau listing dengan harga sangat tinggi.
-
+- **Entire Home/Apt**: Memiliki harga yang mahal, mencerminkan akomodasi yang menawarkan privasi dan fasilitas lengkap. Ideal untuk tamu yang menginginkan pengalaman menginap yang lebih nyaman dan eksklusif. Rentang harga: 990 - 1999.
+- **Shared Room**: Memiliki harga termurah dibandingkan dengan jenis akomodasi lainnya. Ini cocok untuk tamu yang mencari opsi akomodasi yang lebih ekonomis. Rentang harga: 380 - 550.
+- **Private Room**: Memiliki harga yang berada di tengah-tengah. Akomodasi ini menawarkan privasi lebih dibandingkan dengan shared room, tetapi dengan fasilitas yang lebih terbatas dibandingkan entire home/apt. Rentang harga: 750 - 1500.
+- **Hotel Room**: Menunjukkan variasi harga yang lebih luas, dari harga yang terjangkau hingga yang lebih mahal. Ini mencerminkan berbagai tingkat kualitas dan layanan yang tersedia. Rentang harga: 900 - 2222.
 
 Batasan-batasan ini harus dipertimbangkan saat menafsirkan hasil analisis dan rekomendasi yang diberikan.
 
