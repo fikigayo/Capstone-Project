@@ -2,7 +2,7 @@
 
 ## Latar Belakang
 
-Bangkok sebagai kota tujuan wisata menawarkan berbagai pilihan akomodasi melalui Airbnb. Host perlu menetapkan harga yang kompetitif untuk menarik tamu dan memaksimalkan pendapatan.
+Bangkok adalah kota tujuan wisata yang menawarkan beragam akomodasi melalui Airbnb, termasuk kamar pribadi, rumah, apartemen, dan hotel.
 
 ## Permasalahan
 
