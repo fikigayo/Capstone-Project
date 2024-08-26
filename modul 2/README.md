@@ -17,7 +17,7 @@ Tujuan dari analisis ini adalah untuk mengidentifikasi faktor-faktor yang mempen
 - **Cakupan Data**: Analisis ini hanya menggunakan data dari platform Airbnb untuk tahun 2022 terkait listing di Bangkok dan mungkin tidak mencakup semua listing atau aspek terbaru di kota tersebut.
 - **Faktor Eksternal**: Beberapa faktor eksternal seperti perubahan musim, cuaca, tanggal tertentu, atau peristiwa khusus di Bangkok tidak dipertimbangkan dalam analisis ini.
 - **Keterbatasan Data**: Data ulasan atau informasi listing mungkin tidak lengkap atau memiliki bias. Misalnya, ulasan mungkin tidak sepenuhnya merepresentasikan pengalaman tamu, dan Airbnb tidak menyediakan variabel yang menjelaskan fasilitas atau memberikan rating berbintang.
-- **Temuan**: Hasil analisis ini mungkin tidak sepenuhnya berlaku untuk semua jenis akomodasi atau lokasi di Bangkok di luar sampel yang dianalisis, seperti rumah yang sangat mewah atau listing dengan harga yang sangat tinggi.
+- **Hasil Analisis**: Temuan dari analisis ini mungkin tidak sepenuhnya berlaku untuk semua jenis akomodasi atau lokasi di Bangkok di luar sampel yang dianalisis, seperti rumah yang sangat mewah atau listing dengan harga yang sangat tinggi.
 
 Batasan-batasan ini harus dipertimbangkan saat menafsirkan hasil analisis dan rekomendasi yang diberikan.
 
