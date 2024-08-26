@@ -8,6 +8,10 @@ Bangkok sebagai destinasi wisata menyediakan berbagai jenis akomodasi melalui Ai
 
 Host menghadapi tantangan dalam menetapkan harga sewa yang optimal untuk menarik tamu dan meningkatkan pendapatan.
 
+## Tujuan Analisis
+
+Tujuan dari analisis ini adalah untuk mengidentifikasi faktor-faktor yang mempengaruhi harga sewa di Airbnb Bangkok. Analisis ini juga bertujuan untuk memberikan rekomendasi strategis kepada host dalam menetapkan harga sewa yang optimal dan meningkatkan daya tarik listing mereka kepada calon tamu, sehingga dapat memaksimalkan pendapatan.
+
 ## Kesimpulan
 
 - Mayoritas tamu memilih menginap jangka pendek dan menyewa **Entire home/apt**.
