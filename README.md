@@ -17,10 +17,10 @@ Berikut adalah project yang telah dikerjakan:
 Setiap proyek memiliki file `README.md` di dalam foldernya yang menyediakan informasi spesifik tentang proyek tersebut. Anda dapat mengakses dokumentasi untuk masing-masing proyek dengan mengikuti petunjuk di bawah ini:
 
 1. **Capstone Project Modul 1**:
-   - Masuk ke folder `modul 1` untuk informasi lebih lanjut: [modul 1](https://github.com/fikigayo/Capstone-Project/tree/main/modul%201)
+   - Masuk ke folder `modul 1` untuk informasi lebih lanjut: [modul 1](https://github.com/fikigayo/Capstone-Project/tree/main/modul-1)
 
 2. **Capstone Project Modul 2**:
-   - Masuk ke folder `modul 2` untuk informasi lebih lanjut: [modul 2](https://github.com/fikigayo/Capstone-Project/tree/main/modul%202)
+   - Masuk ke folder `modul 2` untuk informasi lebih lanjut: [modul 2](https://github.com/fikigayo/Capstone-Project/tree/main/modul-2)
 
 
 ## Kontak
