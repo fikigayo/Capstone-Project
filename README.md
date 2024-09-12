@@ -24,6 +24,7 @@ Setiap proyek memiliki file `README.md` di dalam foldernya yang menyediakan info
 
 
 ## Kontak
-Nama    : Fiki Putra Gayori
-Email   : fikigayo@gmail.com
-GitHub  : [GitHub](https://github.com/fikigayo)
+
+- **Nama**    : Fiki Putra Gayori
+- **Email**   : fikigayo@gmail.com
+- **GitHub**  : https://github.com/fikigayo
