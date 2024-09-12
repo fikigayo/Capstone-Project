@@ -1,3 +1,15 @@
+# Ignore batch files
 git_auto_commit.bat
+
+# Ignore Folders
 /modul 3/Datasets for Students
+
+# Ignore Documents
 *.pdf
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore temporary files
+*.log
+*.tmp
