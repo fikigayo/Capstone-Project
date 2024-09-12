@@ -23,7 +23,7 @@ Setiap proyek memiliki file `README.md` di dalam foldernya yang menyediakan info
    - Masuk ke folder `modul-2` untuk informasi lebih lanjut: [modul 2](https://github.com/fikigayo/Capstone-Project/tree/main/modul-2)
   
 3. **Capstone Project Modul 3**:
-   - Masuk ke folder `modul-3` untuk informasi lebih lanjut: [modul 2](https://github.com/fikigayo/Capstone-Project/tree/main/modul-3)
+   - Masuk ke folder `modul-3` untuk informasi lebih lanjut: [modul 3](https://github.com/fikigayo/Capstone-Project/tree/main/modul-3)
 
 
 ## Kontak
