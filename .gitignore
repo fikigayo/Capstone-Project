@@ -2,7 +2,7 @@
 git_auto_commit.bat
 
 # Ignore Folders
-/modul 3/Datasets for Students
+/modul-3/Datasets for Students
 
 # Ignore Documents
 *.pdf
