@@ -1,11 +1,11 @@
-[submodule "modul 1"]
-    path = modul 1
-    url = https://github.com/fikigayo/Capstone-Project-Modul1.git
+[submodule "modul-1"]
+    path = modul-1
+    url = https://github.com/fikigayo/Capstone-Project-Modul-1.git
 
-[submodule "modul 2"]
-    path = modul 2
-    url = https://github.com/fikigayo/Capstone-Project-Modul2.git
+[submodule "modul-2"]
+    path = modul-2
+    url = https://github.com/fikigayo/Capstone-Project-Modul-2.git
 
-[submodule "modul 3"]
-    path = modul 3
-    url = https://github.com/fikigayo/Capstone-Project-Modul3.git
+[submodule "modul-3"]
+    path = modul-3
+    url = https://github.com/fikigayo/Capstone-Project-Modul-3.git
