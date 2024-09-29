@@ -13,3 +13,6 @@ git_auto_commit.bat
 # Ignore temporary files
 *.log
 *.tmp
+*.mkv
+*.clv
+*.pptx
