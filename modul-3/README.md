@@ -1,4 +1,4 @@
-# Prediksi Customer Lifetime Value Berbasis Machine Learning
+# Customer Lifetime Value
 
 ## Background
 
@@ -59,10 +59,10 @@ Sebelum menginstal proyek ini, pastikan kamu memiliki:
 
 
 ## Cara Menggunakan Pickle
-Anda bisa memprediksi clv dengan menggunakan pickle, ikuti langkah berikut
+Anda dapat memprediksi CLV menggunakan Pickle dengan mengikuti langkah-langkah berikut:
 
-1. Jalankan Pickle dengan Jupyter Notebook:
+1. Jalankan Jupyter Notebook dengan perintah berikut:
    ```bash
    jupyter notebook predict_clv_from_pickle.ipynb
 
-2. Setelah terbuka, jalankan program dan inputkan data, program akan memprediksi nilai clv berdasarkan data yang anda input 
+2. Setelah notebook terbuka, jalankan program dan masukkan data yang diminta. Program akan memprediksi nilai CLV berdasarkan data yang Anda input.
