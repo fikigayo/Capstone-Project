@@ -72,4 +72,4 @@ Anda dapat memprediksi CLV menggunakan Pickle dengan mengikuti langkah-langkah b
 
 - [Customer Lifetime Value](https://github.com/fikigayo/Capstone-Project/blob/main/modul-3/clv_analysis.ipynb)
 - [Pickle](https://github.com/fikigayo/Capstone-Project/blob/main/modul-3/predict_clv_from_pickle.ipynb)
-- [Video Tutorial](https://drive.google.com/file/d/1UBC39G2hQw55G3qsmxcwh0-cfTM7INT7/view?usp=sharing)
+- [Video Analisis](https://drive.google.com/file/d/1UBC39G2hQw55G3qsmxcwh0-cfTM7INT7/view?usp=sharing)
