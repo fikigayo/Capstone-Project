@@ -33,3 +33,13 @@ Sebelum menginstal proyek ini, pastikan kamu memiliki:
    source clv-analysis-env/bin/activate  # di Linux atau Mac
    # atau
    clv-analysis-env\Scripts\activate     # di Windows
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Instal Jupyter Notebook (jika belum ada):
+   ```bash
+   pip install notebook
+
+
