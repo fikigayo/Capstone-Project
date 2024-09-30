@@ -51,14 +51,8 @@ Sebelum menginstal proyek ini, pastikan kamu memiliki:
 
 5. Jalankan Jupyter Notebook:
    ```bash
-   jupyter notebook
+   jupyter notebook clv_analysis.ipynb
 
 6. Setelah selesai, non-aktifkan environment
    ```bash
    deactivate
-
-## Cara Penggunaan
-
-1. Buka Jupyter Notebook dengan menjalankan perintah berikut:
-   ```bash
-   jupyter notebook
