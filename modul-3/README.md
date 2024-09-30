@@ -59,4 +59,10 @@ Sebelum menginstal proyek ini, pastikan kamu memiliki:
 
 
 ## Cara Menggunakan Pickle
+Anda bisa memprediksi clv dengan menggunakan pickle, ikuti langkah berikut
 
+1. Jalankan Pickle dengan Jupyter Notebook:
+   ```bash
+   jupyter notebook predict_clv_from_pickle.ipynb
+
+2. Setelah terbuka, jalankan program dan inputkan data, program akan memprediksi nilai clv berdasarkan data yang anda input 
