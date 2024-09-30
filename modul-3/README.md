@@ -1,6 +1,6 @@
-# Customer Lifetime Value
+# Prediksi Customer Lifetime Value Berbasis Machine Learning
 
-## Deskripsi Proyek
+## Background
 
 Customer Lifetime Value (CLV) mengukur nilai seorang pelanggan bagi perusahaan, membantu meningkatkan keuntungan dan mengurangi biaya untuk menarik atau mempertahankan pelanggan. Dalam industri asuransi, memahami CLV penting karena mempertahankan pelanggan lebih murah dibandingkan memperoleh yang baru. Dengan model machine learning, perusahaan dapat memprediksi CLV berdasarkan karakteristik pelanggan, meningkatkan efisiensi dan fokus pada pelanggan bernilai.
 ![image](https://github.com/user-attachments/assets/c07f2a28-1b66-4e55-9f94-4d030908e999)
