@@ -1,12 +1,15 @@
-# Nama Proyek
+# Customer Lifetime Value
 
 ## Deskripsi Proyek
 
-### Latar Belakang
-Berikan penjelasan tentang latar belakang proyek ini. Jelaskan apa yang melatarbelakangi pengembangan proyek ini, misalnya, apakah ada kebutuhan khusus, masalah yang ingin dipecahkan, atau ide yang ingin direalisasikan.
+Customer Lifetime Value (CLV) mengukur nilai seorang pelanggan bagi perusahaan, membantu meningkatkan keuntungan dan mengurangi biaya untuk menarik atau mempertahankan pelanggan. Dalam industri asuransi, memahami CLV penting karena mempertahankan pelanggan lebih murah dibandingkan memperoleh yang baru. Dengan model machine learning, perusahaan dapat memprediksi CLV berdasarkan karakteristik pelanggan, meningkatkan efisiensi dan fokus pada pelanggan bernilai.
+![image](https://github.com/user-attachments/assets/c07f2a28-1b66-4e55-9f94-4d030908e999)
 
-### Pernyataan Masalah
-Jelaskan masalah spesifik yang ingin kamu selesaikan melalui proyek ini. Apakah ada kesenjangan dalam solusi yang sudah ada? Apa yang membuat masalah ini penting untuk diatasi?
+
+### Problem Statement
+Salah satu tantangan utama perusahaan asuransi adalah memprediksi Customer Lifetime Value (CLV) secara efisien. Penghitungan manual sering lambat dan kurang relevan, mengakibatkan anggaran terbuang pada pelanggan yang tidak menguntungkan. Dengan prediksi CLV berbasis machine learning, perusahaan dapat lebih selektif dalam memilih pelanggan bernilai tinggi, menghemat biaya, dan meningkatkan layanan.
+![image](https://github.com/user-attachments/assets/275f1f17-31ce-4779-a0d3-7cdc16304ca4)
+
 
 ---
 
