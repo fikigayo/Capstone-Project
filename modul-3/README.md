@@ -42,4 +42,8 @@ Sebelum menginstal proyek ini, pastikan kamu memiliki:
    ```bash
    pip install notebook
 
+## Cara Penggunaan
 
+1. Buka Jupyter Notebook dengan menjalankan perintah berikut:
+   ```bash
+   jupyter notebook
