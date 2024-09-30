@@ -56,3 +56,7 @@ Sebelum menginstal proyek ini, pastikan kamu memiliki:
 6. Setelah selesai, non-aktifkan environment
    ```bash
    deactivate
+
+
+## Cara Menggunakan Pickle
+
