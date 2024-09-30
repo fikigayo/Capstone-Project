@@ -38,9 +38,8 @@ Sebelum menginstal proyek ini, pastikan kamu memiliki:
      ```
    - Windows
       ```bash
-      clv-analysis-env\Scripts\activate     # di Windows
+      clv-analysis-env\Scripts\activate
       ```
-   
 
 3. Install dependencies:
    ```bash
@@ -50,7 +49,11 @@ Sebelum menginstal proyek ini, pastikan kamu memiliki:
    ```bash
    pip install notebook
 
-5. Setelah selesai, non-aktifkan environment
+5. Jalankan Jupyter Notebook:
+   ```bash
+   jupyter notebook
+
+6. Setelah selesai, non-aktifkan environment
    ```bash
    deactivate
 
