@@ -38,7 +38,7 @@ Sebelum menginstal proyek ini, pastikan kamu memiliki:
      ```
    - Windows
       ```bash
-      clv-analysis-env\Scripts\activate
+      clv-analysis-env/Scripts/activate
       ```
 
 3. Install dependencies:
