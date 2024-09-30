@@ -71,8 +71,8 @@ Dengan mengikuti rekomendasi ini, host dapat menarik lebih banyak tamu dan memak
 
 ## Dokumentasi
 
-1. [Jupyter Notebook](https://github.com/fikigayo/Capstone-Project/blob/68e3a67b1624c90493cb7c9eb045036721d5d773/modul%202/Data%20Analisis%20Airbnb%20Listing%20Bangkok.ipynb)
-2. [Tableau Story](https://public.tableau.com/app/profile/fiki.putra/viz/CapstoneProjectModul2AirbnbListingBangkok/Story)
+1. [Jupyter Notebook](https://github.com/fikigayo/Capstone-Project/blob/main/modul-3/clv_analysis.ipynb)
+2. [Pickle](https://github.com/fikigayo/Capstone-Project/blob/main/modul-3/predict_clv_from_pickle.ipynb)
 3. [Video Penjelasan](https://drive.google.com/file/d/1jB3NNPaLY5MhmAId9cqluiut22nsVrfJ/view?usp=drive_link)
 
 ## Rencana Pengembangan Lanjutan

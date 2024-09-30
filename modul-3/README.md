@@ -66,3 +66,10 @@ Anda dapat memprediksi CLV menggunakan Pickle dengan mengikuti langkah-langkah b
    jupyter notebook predict_clv_from_pickle.ipynb
 
 2. Setelah notebook terbuka, jalankan program dan masukkan data yang diminta. Program akan memprediksi nilai CLV berdasarkan data yang Anda input.
+
+
+## Dokumentasi
+
+- [Customer Lifetime Value](https://github.com/fikigayo/Capstone-Project/blob/main/modul-3/clv_analysis.ipynb)
+- [Pickle](https://github.com/fikigayo/Capstone-Project/blob/main/modul-3/predict_clv_from_pickle.ipynb)
+- [Video Tutorial](https://drive.google.com/file/d/1UBC39G2hQw55G3qsmxcwh0-cfTM7INT7/view?usp=sharing)
