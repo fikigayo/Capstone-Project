@@ -19,7 +19,6 @@ Salah satu tantangan utama perusahaan asuransi adalah memprediksi Customer Lifet
 Sebelum menginstal proyek ini, pastikan kamu memiliki:
 - Python 3.x
 - Jupyter Notebook
-- Pip
 
 ### Langkah Install
 
