@@ -26,3 +26,10 @@ Sebelum menginstal proyek ini, pastikan kamu memiliki:
    ```bash
    git clone https://github.com/fikigayo/Capstone-Project.git
    cd Capstone-Project/modul-3
+
+2. Buat environment baru (opsional, tapi direkomendasikan):
+   ```bash
+   python -m venv clv-analysis-env
+   source clv-analysis-env/bin/activate  # di Linux atau Mac
+   # atau
+   clv-analysis-env\Scripts\activate     # di Windows
