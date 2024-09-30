@@ -30,9 +30,17 @@ Sebelum menginstal proyek ini, pastikan kamu memiliki:
 2. Buat environment baru (opsional, tapi direkomendasikan):
    ```bash
    python -m venv clv-analysis-env
-   source clv-analysis-env/bin/activate  # di Linux atau Mac
-   # atau
-   clv-analysis-env\Scripts\activate     # di Windows
+   ```
+   Aktifkan Environment:
+   - Linux atau Mac
+     ```bash
+      source clv-analysis-env/bin/activate
+     ```
+   - Windows
+      ```bash
+      clv-analysis-env\Scripts\activate     # di Windows
+      ```
+   
 
 3. Install dependencies:
    ```bash
@@ -41,6 +49,10 @@ Sebelum menginstal proyek ini, pastikan kamu memiliki:
 4. Instal Jupyter Notebook (jika belum ada):
    ```bash
    pip install notebook
+
+5. Setelah selesai, non-aktifkan environment
+   ```bash
+   deactivate
 
 ## Cara Penggunaan
 
