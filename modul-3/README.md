@@ -25,5 +25,5 @@ Sebelum menginstal proyek ini, pastikan kamu memiliki:
 
 1. **Clone repository**:  
    ```bash
-   git clone https://github.com/username/nama-proyek.git
-   cd nama-proyek
+   git clone https://github.com/fikigayo/Capstone-Project.git
+cd Capstone-Project/modul-3
